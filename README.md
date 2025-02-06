@@ -1,16 +1,21 @@
-## Hi there 👋
+# Seja bem-vindo ao meu Perfil!
+Olá me chamo Graziella, mas podem me chamar de Grazi.
 
-<!--
-**grazybt/grazybt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### O que faço?
+Atualmente, estou no meu último ano do EM e meu último ano do curso técnico de Desenvolvimento de Sistemas do SENAI-SP.
 
-Here are some ideas to get you started:
+### O que estou aprendendo recentemente?
+Ultimamente estou aprendendo sobre FRONT-END e BACK-END no curso técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou buscando aprender?
+Estou buscando aprender e conhecer mais sobre Desenvolvimento de Sistemas, seja com meus instrutores e no Youtube e sobre Psicologia.
+
+### Do que gosto?
+Meus gostos são: estética, programação, academia, cinema, etc..
+
+### Experiências:
+- HTML
+- CSS
+
+### Como entrar em contato comigo?
+https://github.com/grazybt
